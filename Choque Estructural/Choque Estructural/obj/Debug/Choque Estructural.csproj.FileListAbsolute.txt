@@ -1,0 +1,49 @@
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.exe.config
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.exe
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.pdb
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque_Estructural.Form1.resources
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque_Estructural.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.exe
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.pdb
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque_Estructural.Form2.resources
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.exe.manifest
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.application
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.exe.manifest
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.application
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.dll
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.xml
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sebastian\Desktop\progra\Choque Estructural\Choque Estructural\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque_Estructural.Form1.resources
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque_Estructural.Form2.resources
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque_Estructural.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.exe
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.pdb
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque_Estructural.AboutBox1.resources
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.exe.config
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.exe.manifest
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.application
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.exe
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\Choque Estructural.pdb
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.dll
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.xml
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.exe.manifest
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.application
+C:\Users\Sebastian\Desktop\todo\progra\Choque Estructural\Choque Estructural\obj\Debug\Choque Estructural.csproj.CopyComplete
